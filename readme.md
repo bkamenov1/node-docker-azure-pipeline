@@ -13,3 +13,5 @@ A simple Node.js Express web application that demonstrates how to containerize a
 - **Azure Web App for Containers** – App hosting on Azure using Docker images
 
 ----
+Author
+Boyan Kamenov
