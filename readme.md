@@ -12,15 +12,4 @@ A simple Node.js Express web application that demonstrates how to containerize a
 - **Azure DevOps Pipelines** – CI/CD for automated build and deployment
 - **Azure Web App for Containers** – App hosting on Azure using Docker images
 
----
-
-## 📁 Project Structure
-/node-docker-azure-pipeline
-│
-├── app/
-│ ├── index.js # Main app logic
-│ └── package.json # App dependencies and start script
-│
-├── Dockerfile # Instructions for building the image
-├── azure-pipelines.yml # Azure DevOps CI/CD configuration
-├── README.md # Project overview
+----
