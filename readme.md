@@ -1,4 +1,4 @@
-# Node.js Docker Azure DevOps Pipeline 🚀
+# Node.js Docker Azure DevOps Pipeline 
 
 A simple Node.js Express web application that demonstrates how to containerize an app with Docker, push it to Azure Container Registry (ACR), and deploy it automatically to Azure Web App for Containers using Azure DevOps Pipelines.
 
