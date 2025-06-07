@@ -4,7 +4,7 @@ A simple Node.js Express web application that demonstrates how to containerize a
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Node.js** + **Express** – Lightweight web server for the app
 - **Docker** – Containerization for consistent deployment
